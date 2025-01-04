@@ -1,6 +1,6 @@
 const a=()=>{
 
 }
-const b=()=>{
-    
+const e=()=>{
+    alert(50)
 }
