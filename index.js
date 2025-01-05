@@ -1,5 +1,5 @@
 const a=()=>{
-
+alert(30)
 }
 
 const e=()=>{
