@@ -1,5 +1,5 @@
 const a=()=>{
-
+  return 30000 
 }
 
 const e=()=>{
